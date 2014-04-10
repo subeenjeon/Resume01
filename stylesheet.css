@@ -1,5 +1,5 @@
 div {
-	border-radius: 5px;
+	border-radius: 3px;
 }
 
 #header {
@@ -8,7 +8,7 @@ div {
 	width: 97.5%;	
 	margin-top: -20px;
 	height: 60px;
-	background-color: #668284;
+	background-color: #d8ff00;
 	margin-bottom: 10px;
 }
 
@@ -18,7 +18,7 @@ div {
 	padding-top: 5px;
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	color: #353d08;
 }
 
 #email{
@@ -27,7 +27,7 @@ div {
 	padding-top: 5px;
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
-	color: #ffffff;
+	color: #353d08;
 }
 
 h1 {	margin-left: 5px;	
@@ -59,42 +59,33 @@ h4 {	margin-left: 5px;
 }
 
 li {
-	list-style-type: square;
+	list-style-type: circle;
 }
 
 a:hover {
 	font-weight: bold;
 }
 
-.left {
-	position: relative;
-	float: left;
-	margin-top: 50px;
-	width: 10%;
-	height: 400px;
-	background-color: #B9D7D9;
-	margin-bottom: 10px;
-}
 
 .right {
 	position: relative;
 	float: right;
 	margin-top: 50px;
-	width: 88%;
-	height: 400px;
-	background-color: #F4EBC3;
+	width: 98%;
+	height: 800px;
+	background-color: #ffffff;
 	margin-bottom: 10px;
 }
 
 #footer {
 	position: relative;
 	height: 50px;
-	background-color: #668284;
+	background-color: #d8ff00;
 	clear: both;
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
 	text-align: center;
-	color: #ffffff;
+	color: #353d08;
 }
 
 #footer p {
